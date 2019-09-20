@@ -10,7 +10,7 @@ public class Encrypt {
 		
 		System.out.println("Enter a 4 digit number: ");
 		userInput = scnr.nextInt();
-		System.out.println("You entered: " + userInput);
+		System.out.println("You entered: " + userInput + " Good job!");
 
 	}
 
